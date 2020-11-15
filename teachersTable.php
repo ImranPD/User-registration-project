@@ -86,7 +86,6 @@
 
 							$data=$teacher->allteacher();
 							$i=1;
-							$data->fetch_assoc();
 
 						    while($single_te=$data->fetch_assoc()):
 

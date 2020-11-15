@@ -87,7 +87,6 @@
 
 							$data=$staff->allStaff();
 							$i=1;
-							$data->fetch_assoc();
 							while($all_staff=$data->fetch_assoc()):
 						 ?>
 						<tr>

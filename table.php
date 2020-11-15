@@ -86,7 +86,6 @@
 
 						$data=$stu->allUser();
 						$i=1;
-						$data->fetch_assoc();
 
 						while($single=$data->fetch_assoc()):
 
