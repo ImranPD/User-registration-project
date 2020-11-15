@@ -67,7 +67,7 @@
 		<a class="btn btn-primary" href="index.php">Create new</a>
 		<div class="card">
 			<div class="card-header">
-				<h3>Teachers Table</h3>
+				<h3>Staff Table</h3>
 			</div>
 			<div class="card-body">
 				<table class="table table-striped text-center">
